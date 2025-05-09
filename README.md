@@ -11,7 +11,7 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 
 ### 1. **Network Simulator**
 - **Deskripsi**: Proyek ini mencakup berbagai konfigurasi jaringan termasuk routing, switching, dan VLAN.
-- **Link**: [Lihat Proyek](projects/network-simulator)
+- **Link**: [Lihat Proyek](projects/network-simulator/README.md)
 
 ### 2. **SIP Network instalation**
 - **Deskripsi**: Instalasi jaringan sip menggunakan server asterisk di debian
