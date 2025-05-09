@@ -11,20 +11,20 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 
 ### 1. **Network Simulator**
 - **Deskripsi**: Proyek ini mencakup berbagai konfigurasi jaringan termasuk routing, switching, dan VLAN.
-- **Link**: [Lihat Proyek](projects/networksimulator)
+- **Link**: [Lihat Proyek](projects/network-simulator)
 
 ### 2. **SIP Network instalation**
 - **Deskripsi**: Instalasi jaringan sip menggunakan server asterisk di debian
-- **Link**: [Lihat Proyek](projects/sipnetworkinstalation)
+- **Link**: [Lihat Proyek](projects/sip-network-instalation)
  
 ### 3. **Web Mail Configuration**
 - **Deskripsi**: Mengkonfigurasi web mail menggunakan debian
-- **Link**: [Lihat Proyek](projects/webmailconfiguration)
+- **Link**: [Lihat Proyek](projects/web-mail-configuration)
 
 ## Pengalaman Kerja
 
 Saya juga memiliki pengalaman kerja selama enam bulan melalui program Praktik Kerja Lapangan (PKL) di PT Handayani Fiber Media, sebuah perusahaan yang bergerak di bidang instalasi dan layanan jaringan berbasis fiber optik. Selama program tersebut, saya terlibat dalam kegiatan seperti penarikan kabel fiber optik, instalasi perangkat jaringan, serta troubleshooting koneksi internet di lapangan. Pengalaman ini memperkuat pemahaman saya terhadap infrastruktur jaringan secara langsung.
-- **Dokumentasi**: [Lihat Proyek](projects/sipnetworkinstalation)
+- **Link**: [Lihat Proyek](projects/PKL)
 
 ## Kontak
 
