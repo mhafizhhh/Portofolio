@@ -21,9 +21,10 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 - **Deskripsi**: Mengkonfigurasi web mail menggunakan debian
 - **Link**: [Lihat Proyek](projects/web-mail-configuration)
 
-## Pengalaman Kerja
+## Pengalaman Kerja                                                                                                                       
 
-Saya juga memiliki pengalaman kerja selama enam bulan melalui program Praktik Kerja Lapangan (PKL) di PT Handayani Fiber Media, sebuah perusahaan yang bergerak di bidang instalasi dan layanan jaringan berbasis fiber optik. Selama program tersebut, saya terlibat dalam kegiatan seperti penarikan kabel fiber optik, instalasi perangkat jaringan, serta troubleshooting koneksi internet di lapangan. Pengalaman ini memperkuat pemahaman saya terhadap infrastruktur jaringan secara langsung.
+### PT Handayani Fiber Media 
+Juli 2024 - Desember 2024
 - **Link**: [Lihat Proyek](projects/PKL)
 
 ## Kontak
