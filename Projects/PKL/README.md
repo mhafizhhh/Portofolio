@@ -8,9 +8,14 @@ PT Handayani Fiber Media adalah penyedia layanan internet terkemuka yang berdiri
 
 ## Jenis Pekerjaan
 
-• Membantu teknisi dalam proses instalasi jaringan internet pada rumah pelanggan dan kantor, termasuk 
-penarikan kabel, pemasangan perangkat jaringan, serta konfigurasi awal. 
-• Membantu teknisi dalam kegiatan maintenance dan troubleshooting jaringan internet untuk memastikan 
-konektivitas berjalan stabil dan optimal. 
-• Membantu tim marketing dalam kegiatan promosi dengan mendistribusikan brosur layanan internet kepada 
-calon pelanggan di area yang ditargetkan, serta memberikan informasi dasar mengenai produk. 
+- Membantu teknisi dalam proses instalasi jaringan internet pada rumah pelanggan dan kantor, termasuk 
+penarikan kabel, pemasangan perangkat jaringan, serta konfigurasi awal.
+- Membantu teknisi dalam kegiatan maintenance dan troubleshooting jaringan internet untuk memastikan 
+konektivitas berjalan stabil dan optimal.
+- Membantu tim marketing dalam kegiatan promosi dengan mendistribusikan brosur layanan internet kepada 
+calon pelanggan di area yang ditargetkan, serta memberikan informasi dasar mengenai produk.
+
+## Dokumentasi
+
+
+
