@@ -11,21 +11,21 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 
 ### 1. **Network Simulator**
 - **Deskripsi**: Proyek ini mencakup berbagai konfigurasi jaringan termasuk routing, switching, dan VLAN.
-- **Link**: [Lihat Proyek](projects/network-simulator/README.md)
+- **Link**: [Lihat Proyek](Projects/network-simulator)
 
 ### 2. **SIP Network instalation**
 - **Deskripsi**: Instalasi jaringan sip menggunakan server asterisk di debian
-- **Link**: [Lihat Proyek](projects/sip-network-instalation)
+- **Link**: [Lihat Proyek](Projects/sip-network-instalation)
  
 ### 3. **Web Mail Configuration**
 - **Deskripsi**: Mengkonfigurasi web mail menggunakan debian
-- **Link**: [Lihat Proyek](projects/web-mail-configuration)
+- **Link**: [Lihat Proyek](Projects/web-mail-configuration)
 
 ## Pengalaman Kerja                                                                                                                       
 
 ### PT Handayani Fiber Media 
 Juli 2024 - Desember 2024
-- **Link**: [Lihat Proyek](projects/PKL)
+- **Link**: [Lihat Proyek](Projects/PKL)
 
 ## Kontak
 
