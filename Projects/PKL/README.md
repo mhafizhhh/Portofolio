@@ -17,6 +17,9 @@ calon pelanggan di area yang ditargetkan, serta memberikan informasi dasar menge
 
 ## Dokumentasi
 
-<img src="/Docs/Images/1.jpg" alt="1" width="300">
-<img src="/Docs/Images/2.jpg" alt="2" width="300">
-<img src="/Docs/Images/3.jpg" alt="3" width="300">
+<p align="center">
+  <img src="/Docs/Images/1.jpg" alt="1" width="300" style="display:inline; margin-right:10px;">
+  <img src="/Docs/Images/2.jpg" alt="2" width="300" style="display:inline; margin-right:10px;">
+  <img src="/Docs/Images/3.jpg" alt="3" width="300" style="display:inline;">
+</p>
+
