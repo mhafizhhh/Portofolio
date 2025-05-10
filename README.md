@@ -21,6 +21,10 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 - **Deskripsi**: Mengkonfigurasi web mail menggunakan debian
 - **Link**: [Lihat Proyek](Projects/web-mail-configuration)
 
+### 4. **Video Demo Terminasi**
+## Video Demo Proyek
+[![Tonton di YouTube](https://img.youtube.com/vi/nA3naD4q1_w/maxresdefault.jpg)](https://www.youtube.com/watch?v=nA3naD4q1_w)
+
 ## Pengalaman Kerja                                                                                                                       
 
 ### PT Handayani Fiber Media 
