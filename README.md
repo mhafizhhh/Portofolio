@@ -21,11 +21,10 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 - **Deskripsi**: Mengkonfigurasi web mail menggunakan debian
 - **Link**: [Lihat Proyek](Projects/web-mail-configuration)
 
-### 4. **Video Demo**
+### 4. **Praktik Terminasi Kabel Fiber Optik**
 <a href="https://www.youtube.com/watch?v=nA3naD4q1_w">
   <img src="https://img.youtube.com/vi/nA3naD4q1_w/maxresdefault.jpg" alt="Tonton di YouTube" width="480"/>
 </a>
-
 
 ## Pengalaman Kerja                                                                                                                       
 
