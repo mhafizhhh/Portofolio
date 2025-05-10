@@ -19,4 +19,4 @@ calon pelanggan di area yang ditargetkan, serta memberikan informasi dasar menge
 
 <img src="/Docs/Images/1.jpg" alt="1" width="300">
 <img src="/Docs/Images/2.jpg" alt="2" width="300">
-<img src="/Docs/Images/2.jpg" alt="3" width="300">
+<img src="/Docs/Images/3.jpg" alt="3" width="300">
