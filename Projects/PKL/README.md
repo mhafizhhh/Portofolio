@@ -20,3 +20,4 @@ calon pelanggan di area yang ditargetkan, serta memberikan informasi dasar menge
 ![Dokumentasi 1](https://github.com/mhafizhhh/Portofolio/blob/main/Docs/Images/1.jpg)
 ![Dokumentasi 2](https://github.com/mhafizhhh/Portofolio/blob/main/Docs/Images/2.jpg)
 ![Dokumentasi 3](https://github.com/mhafizhhh/Portofolio/blob/main/Docs/Images/3.jpg)
+<img src="/Docs/Images/f1.jpg" alt="1" width="300">
