@@ -1,10 +1,10 @@
 # Praktik Kerja Lapangan
 
-Saya memiliki pengalaman kerja melalui program Praktik Kerja Lapangan (PKL) di PT Handayani Fiber Media, sebuah perusahaan yang bergerak di bidang instalasi dan layanan jaringan berbasis fiber optik. Selama program tersebut, saya terlibat dalam kegiatan seperti penarikan kabel fiber optik, instalasi perangkat jaringan, serta troubleshooting koneksi internet di lapangan. Pengalaman ini memperkuat pemahaman saya terhadap infrastruktur jaringan secara langsung.
+Saya memiliki pengalaman kerja selama enam bulan melalui program Praktik Kerja Lapangan (PKL) di PT Handayani Fiber Media, sebuah perusahaan yang bergerak di bidang instalasi dan layanan jaringan berbasis fiber optik. Selama program tersebut, saya terlibat dalam kegiatan seperti penarikan kabel fiber optik, instalasi perangkat jaringan, serta troubleshooting koneksi internet di lapangan. Pengalaman ini memperkuat pemahaman saya terhadap infrastruktur jaringan secara langsung.
 
 ## Gambaran Umum Perusahaan
 
-PT Handayani Fiber Media adalah penyedia layanan internet terkemuka yang berdiri sejak 2022, berlokasi di Cibinong, Bogor. PT Handayani Fiber Media merupakan spesialis dalam menawarkan solusi internet berbasis fiber optic serta berdedikasi untuk
+PT Handayani Fiber Media adalah penyedia layanan internet terkemuka yang berdiri sejak 2022, berlokasi di Cibinong, Bogor. PT Handayani Fiber Media merupakan spesialis dalam menawarkan solusi internet berbasis fiber optic serta berdedikasi untuk menyediakan layanan internet yang cepat, stabil, dan andal, mendukung berbagai kebutuhan digital baik untuk rumah tangga maupun bisnis. Dengan jangkauan layanan yang meliputi Cibinong, Ciriung, Citayam, Depok, dan Bogor.
 
 ## Jenis Pekerjaan
 
@@ -17,5 +17,5 @@ calon pelanggan di area yang ditargetkan, serta memberikan informasi dasar menge
 
 ## Dokumentasi
 
-![Contoh Topologi]
+![Contoh Topologi](https://github.com/reksaardhana/network-engineer-portofolio/blob/main/docs/images/network-diagram.png)
 
