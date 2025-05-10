@@ -22,7 +22,7 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 - **Link**: [Lihat Proyek](Projects/web-mail-configuration)
 
 ### 4. **Video Demo**
-<a href="https://www.youtube.com/watch?v=nA3naD4q1_w" target="_blank">
+<a href="https://www.youtube.com/watch?v=nA3naD4q1_w">
   <img src="https://img.youtube.com/vi/nA3naD4q1_w/maxresdefault.jpg" alt="Tonton di YouTube" width="480"/>
 </a>
 
