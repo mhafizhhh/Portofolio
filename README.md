@@ -21,9 +21,11 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 - **Deskripsi**: Mengkonfigurasi web mail menggunakan debian
 - **Link**: [Lihat Proyek](Projects/web-mail-configuration)
 
-### 4. **Video Demo Terminasi**
-## Video Demo Proyek
-[![Tonton di YouTube](https://img.youtube.com/vi/nA3naD4q1_w/maxresdefault.jpg)](https://www.youtube.com/watch?v=nA3naD4q1_w)
+### 4. **Video Demo**
+<a href="https://www.youtube.com/watch?v=nA3naD4q1_w" target="_blank">
+  <img src="https://img.youtube.com/vi/nA3naD4q1_w/maxresdefault.jpg" alt="Tonton di YouTube" width="480"/>
+</a>
+
 
 ## Pengalaman Kerja                                                                                                                       
 
