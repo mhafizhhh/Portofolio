@@ -9,16 +9,16 @@ Halo! Saya Muhammad Hafizh, saya merupakan lulusan dari SMKN 1 Cibinong dengan p
 
 Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 
-### 1. **Network Simulator**
+### 1. **Network Simulation**
 - **Deskripsi**: Proyek ini mencakup berbagai konfigurasi jaringan termasuk routing, switching, dan VLAN.
 - **Link**: [Lihat Proyek](Projects/network-simulator)
 
-### 2. **SIP Network instalation**
-- **Deskripsi**: Instalasi jaringan sip menggunakan server asterisk di debian
+### 2. **Asterisk (VoIP) Configuration**
+- **Deskripsi**: Mengkonfigurasi sistem VoIP (Voice over IP) menggunakan Asterisk di sistem operasi Debian
 - **Link**: [Lihat Proyek](Projects/sip-network-instalation)
  
 ### 3. **Web Mail Configuration**
-- **Deskripsi**: Mengkonfigurasi web mail menggunakan debian
+- **Deskripsi**: Mengkonfigurasi Web Mail Server di sistem operasi Debian
 - **Link**: [Lihat Proyek](Projects/web-mail-configuration)
 
 ### 4. **Praktik Terminasi Kabel Fiber Optik**
