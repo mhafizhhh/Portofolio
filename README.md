@@ -15,7 +15,7 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 
 ### 2. **Asterisk (VoIP) Configuration and Instalataion**
 - **Deskripsi**: Instalasi dan konfigurasi sistem VoIP (Voice over IP) menggunakan Asterisk di sistem operasi Debian
-- **Link**: [Lihat Proyek](Projects/sip-network-instalation)
+- **Link**: [Lihat Proyek](Projects/voip-network-instalation)
  
 ### 3. **Mail + Web Mail Configuration and Instalation**
 - **Deskripsi**: Instalasi dan konfigurasi Mail dan SquirrelMail Web Mail Server di sistem operasi Debian
