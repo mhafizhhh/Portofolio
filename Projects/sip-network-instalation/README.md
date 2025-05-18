@@ -11,6 +11,6 @@ VoIP adalah teknologi yang memungkinkan Anda melakukan komunikasi jarak jauh den
 - Software Zoiper 5 dan 3cx Phone 
 
 # Softfile pengerjaan dan konfigurasi
-📄 [Lihat Softfile Konfigurasi (PDF)](Softfile/AsterikKonfigurasi.pdf)
+📄 [Lihat Softfile Konfigurasi (PDF)](Softfile/Konfigurasi2.pdf)
 
 
