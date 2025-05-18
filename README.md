@@ -13,7 +13,7 @@ Berikut adalah beberapa proyek utama yang pernah saya kerjakan:
 - **Deskripsi**: Proyek ini mencakup berbagai konfigurasi jaringan termasuk routing, switching, dan VLAN.
 - **Link**: [Lihat Proyek](Projects/network-simulator)
 
-### 2. **Asterisk (VoIP) Configuration and Instalataion**
+### 2. **Asterisk (VoIP) Configuration and Instalation**
 - **Deskripsi**: Instalasi dan konfigurasi sistem VoIP (Voice over IP) menggunakan Asterisk di sistem operasi Debian
 - **Link**: [Lihat Proyek](Projects/voip-network-instalation)
  
